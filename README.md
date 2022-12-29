@@ -1,5 +1,5 @@
 # project-Nobel-Prize-History-Visuals
-datacamp project. Nobel winner from 1901 to 2016, query and visuals
+datacamp project. 
 
 (open .ipynb file)
 - ***prize winners from 1901, to 2016.***
